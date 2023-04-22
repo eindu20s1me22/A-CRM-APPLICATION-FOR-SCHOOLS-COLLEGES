@@ -1,2 +1,8 @@
 # A-CRM-APPLICATION-FOR-SCHOOLS-COLLEGES
-Video Demonstration - https://github.com/eindu20s1me22/A-CRM-APPLICATION-FOR-SCHOOLS-COLLEGES/edit/main/README.md 
+
+Trailhead URLs
+
+Team Lead - https://trailblazer.me/id/fxebs
+Team Member 1 - https://trailblazer.me/id/sowndi
+Team Member 2 - https://trailblazer.me/id/hemm
+Team Member 3 - https://trailblazer.me/id/blkr
